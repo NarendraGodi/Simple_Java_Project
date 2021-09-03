@@ -24,4 +24,10 @@
       </plugin>
     </plugins>
   </build>
+    <distributionManagement>
+  <repository>
+  <id>mvnTest</id>
+  <url>http://localhost:8081/repository/simple_jp/</url>
+  </repository>
+    </distributionManagement>
 </project>
