@@ -26,8 +26,8 @@
   </build>
     <distributionManagement>
   <repository>
-  <id>simple-java</id>
-  <url>http://34.93.60.168:8081/repository/simple-java/</url>
+  <id>harsha-mvn</id>
+  <url>http://34.93.60.168:8081/repository/harsha-mvn/</url>
   </repository>
     </distributionManagement>
 </project>

@@ -8,4 +8,4 @@
     - name: Download Artifact
       get_url:
         url: http://34.93.60.168:8081/service/rest/v1/search/assets/download?sort=version&direction=desc&maven.groupId=com.maven.test&maven.artifactId=jenkins_test&maven.extension=jar
-        dest: /opt/simple-java-app.jar
+        dest: /opt/harsha-java.jar
